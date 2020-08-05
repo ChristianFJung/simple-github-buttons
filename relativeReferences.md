@@ -1,4 +1,4 @@
-# simple-github-buttons
+# Relative Ref
 
 This file holds the code for relative references. To use the relative references, you first need to download the repo into your project folder. To do this you have several options.
 
@@ -10,7 +10,7 @@ This file holds the code for relative references. To use the relative references
 
 All references are made outside the bottom folder. 
 
-|----- <img src="https://cdn0.iconfinder.com/data/icons/files-and-folders-19/24/folder-512.png" style="zoom:2%;" /> `buttons`
+|----- <img src="https://cdn0.iconfinder.com/data/icons/files-and-folders-19/24/folder-512.png" width="20;" /> `buttons`
 
 |----- `fileYouWantButtonsIn.md`
 

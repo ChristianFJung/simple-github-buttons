@@ -22,7 +22,15 @@ There are two ways to use these buttons.
 
 ```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://link-HERE.christianfjung.com)
+```
 
+
+**Launch Binder** - *Created by the [Binder](https://mybinder.org) team*
+
+[![Binder](https://mybinder.org/badge_logo.svg)](http://link-HERE.christianfjung.com)
+
+```markdown
+[![Binder](https://mybinder.org/badge_logo.svg)](http://link-HERE.christianfjung.com)
 ```
 
 

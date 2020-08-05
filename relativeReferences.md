@@ -27,6 +27,16 @@ All references are made outside the bottom folder.
 
 
 
+**Launch Binder** - *Created by the [Binder](https://mybinder.org) team*
+
+[![Binder](https://mybinder.org/badge_logo.svg)](http://link-HERE.christianfjung.com)
+
+```markdown
+[![Binder](buttons/binder.svg t)](http://link-HERE.christianfjung.com)
+```
+
+
+
 **Download Ipynb** - *Created by Me*
 
 

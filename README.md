@@ -6,7 +6,7 @@ There are two ways to use these buttons.
 
 1. Copy and Paste the code below. 
 
-2. Clone or download this folder and use [relative references](relativeReferences.md) . 
+2. Clone or download this repo and use [relative references](relativeReferences.md) . 
 
    * `git clone https://github.com/ChristianFJung/simple-github-buttons buttons`
 

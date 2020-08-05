@@ -1,10 +1,10 @@
 # simple-github-buttons
 
-This is a repo to hold a running list of buttons that can be used in a GitHub repo. 
+This is a repo to hold a running list of buttons that can be used in a GitHub repo. s
 
 There are two ways to use these buttons.
 
-1. Copy and Paste the code below. 
+1. Copy and Paste the markdown code below. 
 
 2. Clone or download this repo and use [relative references](relativeReferences.md) . 
 

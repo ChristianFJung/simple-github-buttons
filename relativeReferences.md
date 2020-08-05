@@ -1,6 +1,6 @@
 # Relative Ref
 
-This file holds the code for relative references. To use the relative references, you first need to download the repo into your project folder. To do this you have several options.
+This file holds the code for relative references. To use the relative references, you first need to download the repo into your project folder. To do this you have several options:
 
 1. [Download Repo as Zip.](https://github.com/ChristianFJung/simple-github-buttons/archive/master.zip)
 2. Clone:  `git clone https://github.com/ChristianFJung/simple-github-buttons buttons `

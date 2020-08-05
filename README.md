@@ -2,7 +2,7 @@
 
 This is a repo to hold a running list of buttons that can be used in a GitHub repo. 
 
-There are two ways to use these buttons.
+There are two ways to use these buttons:
 
 1. Copy and Paste the markdown code below. 
 

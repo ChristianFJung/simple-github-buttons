@@ -8,7 +8,7 @@ This file holds the code for relative references. To use the relative references
 
 
 
-All references are made outside the bottom folder. 
+All references are made outside the buttons folder. 
 
 |----- <img src="https://cdn0.iconfinder.com/data/icons/files-and-folders-19/24/folder-512.png" width="20;" /> `buttons`
 
